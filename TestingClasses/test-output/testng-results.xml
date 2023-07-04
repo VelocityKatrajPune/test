@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-23T13:39:55 IST" name="Suite" finished-at="2023-06-23T13:40:08 IST" duration-ms="13731">
+    <groups>
+    </groups>
+    <test started-at="2023-06-23T13:39:55 IST" name="Test" finished-at="2023-06-23T13:40:08 IST" duration-ms="13731">
+      <class name="myTest.Test1">
+        <test-method signature="flipkart()[pri:0, instance:myTest.Test1@45099dd3]" started-at="2023-06-23T13:39:55 IST" name="flipkart" finished-at="2023-06-23T13:40:02 IST" duration-ms="7641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkart -->
+      </class> <!-- myTest.Test1 -->
+      <class name="myTest.Test2">
+        <test-method signature="Amazon()[pri:0, instance:myTest.Test2@2e385cce]" started-at="2023-06-23T13:40:02 IST" name="Amazon" finished-at="2023-06-23T13:40:08 IST" duration-ms="6025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazon -->
+      </class> <!-- myTest.Test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
